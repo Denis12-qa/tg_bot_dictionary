@@ -54,4 +54,4 @@ python3 dict_bot.py
 
 ## Автор
 
-Денис Мазин ([@mazicus777](https://t.me/Denis12Mazin))
+Денис Мазин ([@Denis12Mazin](https://t.me/Denis12Mazin))
